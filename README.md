@@ -1,7 +1,7 @@
 # Hi, I'm Miah Godbolt✨
 
 ## 🌱 About Me  
-I'm a student iOS developer with a background in healthcare, kinesiology, and esthetics, exploring how technology can improve **digital health and wellness solutions. Currently, I’m expanding my expertise in Swift, SwiftUI, and software development through the Apple Developer Academy while balancing my work in the medical field.  
+I'm a student iOS developer with a background in healthcare and esthetics, exploring how technology can improve digital health and wellness solutions. Currently, I’m expanding my expertise in Swift, SwiftUI, and software development through the Apple Developer Academy while balancing my work in the medical field.  
 
 My passion lies at the intersection of technology and healthcare—leveraging code to create accessible, user-friendly solutions for real-world problems. Whether it's enhancing patient documentation systems or improving **user experience in wellness apps, I strive to build products that make a difference.  
 
